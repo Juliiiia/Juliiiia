@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juliiiia
 - 👀 I’m interested in testing
 - 🌱 I’m currently learning automation testing
-- 📫 How to reach me TG @buchynska
+- 📫 How to reach me TG @mooonlia
 
 <!---
 Juliiiia/Juliiiia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
